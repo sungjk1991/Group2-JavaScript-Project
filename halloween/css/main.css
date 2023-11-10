@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(227, 229, 221);
+    background-image: url(../assets/backg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#header {
+    color: orange;
+    text-align: center;
+    
+                                                
+}
+
+
+#h1Cont {
+    width: 500px;
+    height: 250px;
+}
+
+
+.jack {
+    position: relative;
+
+}
+
+#homemenu {
+    color: white;
+}
+
+#topic {
+    color: white;
+    text-align: center;
+    display: inline;
+    margin: auto;
+    margin-left: 500px;
+}
+
+.d-flex {
+    width: 50%;
+    display: inline;
+}
+
+#div1 {
+    background-color: #e05a00  ;
+}
+
+
+#buttontop {
+    background-color: transparent;
+}
+
+#buttontop:hover {
+    background-color: black;
+    color: #e05a00  ;
+}
+
+#scary {
+    width: 60%;
+    height: 60%;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+

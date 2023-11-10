@@ -1,0 +1,42 @@
+#flashlight {
+    position: absolute;
+    outline: 1000px;
+    outline-color: rgba(0,0,0,0.93);
+    outline-style: solid;
+    user-select: none;
+    -webkit-user-drag: none;
+    -moz-user-select: none;
+}
+
+#information > * {
+    text-align: center;
+    align-self: center;
+    color: whitesmoke;
+}
+
+#bottomtext a{
+    bottom: 0;
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 16px;
+}
+
+body {
+    background-image: url(forest.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    cursor: url(icons8-flashlight-48.cur), auto;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
